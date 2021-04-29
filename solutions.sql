@@ -170,3 +170,19 @@ FROM nobel
 WHERE (yr < 1910 AND subject = 'Medicine')
 OR (yr >= 2004 AND subject = 'Literature');
 
+SELECT * 
+FROM nobel
+WHERE winner LIKE '%PETER GR%';
+
+SELECT * 
+FROM nobel
+WHERE winner = 'EUGENE O''NEILL';
+
+SELECT winner, yr, subject
+FROM nobel
+WHERE winner LIKE 'Sir%' ORDER BY yr DESC, winner;
+
+SELECT winner, subject
+  FROM nobel
+ WHERE yr=1984
+ ORDER BY subject IN ('Physics','Chemistry'), subject, winner
