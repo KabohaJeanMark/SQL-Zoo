@@ -97,3 +97,31 @@ AND name LIKE '%i%'
 AND name LIKE '%o%'
 AND name LIKE '%u%'
 AND name NOT LIKE '% %';
+
+/* BBC QUIZ ANSWERS */
+SELECT name
+  FROM world
+ WHERE name LIKE 'U%'
+
+SELECT population
+  FROM world
+ WHERE name = 'United Kingdom'
+
+'name' should be name
+
+
+Nauru	9
+
+SELECT name, population
+  FROM world
+ WHERE continent IN ('Europe', 'Asia')90
+
+SELECT name FROM world
+ WHERE name IN ('Cuba', 'Togo')
+
+
+Brazil
+Colombia
+
+
+
