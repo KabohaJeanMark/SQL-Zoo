@@ -74,3 +74,26 @@ OR (area <= 3000000 AND population > 250000000);
 SELECT name, ROUND(population/1000000,2), ROUND(gdp/1000000000, 2)
 FROM world
 WHERE continent = 'South America';
+
+/* rounded off to nearest 1000 by using -3 https://sqlzoo.net/wiki/ROUND */
+SELECT name, ROUND(gdp/population, -3) AS PerCapitaGDP
+FROM world
+WHERE gdp >= 1000000000000;
+
+SELECT name, capital
+  FROM world
+ WHERE LEN(name) = LEN(capital);
+
+SELECT name,capital
+FROM world
+WHERE LEFT(name,1) = LEFT(capital, 1) AND name != capital;
+
+SELECT name
+FROM world
+WHERE 
+name LIKE '%a%'
+AND name LIKE '%e%'
+AND name LIKE '%i%'
+AND name LIKE '%o%'
+AND name LIKE '%u%'
+AND name NOT LIKE '% %';
