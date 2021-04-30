@@ -1,65 +1,48 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# SQL Zoo
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+> Lots of practice and all solutions for tutorials and quizes for SQL queries from the websit [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- SQL
+- MySQL RDBMS
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
+A computer connected to the internet. No need to set up locally. You try on the website.
 
 ### Usage
+Try out the quizes yourself and if you have failed to find the solution, come and check this repo.
 
-### Run tests
+Correct answers are displayed with a smilie face
 
-### Deployment
+![correct answer on tutorial](./assets/tutorial_correct.png)
 
+Incorrect answers do not have a smilie face. It means you still have work to do on the solution
+
+![incorrect answer on tutorial](./assets/tutorial_wrong.png)
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Kaboha Jean Mark**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@KabohaJeanMark](https://github.com/KabohaJeanMark)
+- Twitter: [@jean_quintus](https://twitter.com/jean_quintus)
+- LinkedIn: [Jean Mark Kaboha](https://www.linkedin.com/in/jean-mark-kaboha-software-engineer/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/KabohaJeanMark/SQL-ZOO/issues).
 
 ## Show your support
 
@@ -73,4 +56,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
