@@ -4,15 +4,12 @@
 
 > Lots of practice and all solutions for tutorials and quizes for SQL queries from the websit [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics)
 
-![screenshot](./app_screenshot.png)
-
 Additional description about the project and its features.
 
 ## Built With
 
 - SQL
 - MySQL RDBMS
-
 
 ## Getting Started
 
@@ -22,7 +19,16 @@ To get a local copy up and running follow these simple example steps.
 A computer connected to the internet. No need to set up locally. You try on the website.
 
 ### Usage
-Try out the quizes yourself and if you have failed to find the solution, come and check this repo
+Try out the quizes yourself and if you have failed to find the solution, come and check this repo.
+
+Correct answers are displayed with a smilie face
+
+![correct answer on tutorial](./assets/tutorial_correct.png)
+
+Incorrect answers do not have a smilie face. It means you still have work to do on the solution
+
+![incorrect answer on tutorial](./assets/tutorial_wrong.png)
+
 
 ## Authors
 
