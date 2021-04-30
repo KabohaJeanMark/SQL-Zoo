@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# SQL Zoo
 
-> One paragraph statement about the project.
+> Lots of practice and all solutions for tutorials and quizes for SQL queries from the websit [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics)
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,56 +10,33 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- SQL
+- MySQL RDBMS
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
+A computer connected to the internet. No need to set up locally. You try on the website.
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+Try out the quizes yourself and if you have failed to find the solution, come and check this repo
 
 ## Authors
 
-👤 **Author1**
+👤 **Kaboha Jean Mark**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@KabohaJeanMark](https://github.com/KabohaJeanMark)
+- Twitter: [@jean_quintus](https://twitter.com/jean_quintus)
+- LinkedIn: [Jean Mark Kaboha](https://www.linkedin.com/in/jean-mark-kaboha-software-engineer/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/KabohaJeanMark/SQL-ZOO/issues).
 
 ## Show your support
 
